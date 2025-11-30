@@ -4,9 +4,13 @@ This directory contains detailed documentation for the Browserless BQL (Browser 
 
 ## Core Concepts
 
+*   **[Introduction.md](Introduction.md)**: An introduction to Browserless offerings (BQL, BaaS, REST) and a getting started guide.
 *   **[BrowserQL.md](BrowserQL.md)**: An overview of the Browser Query Language, its syntax, and general usage patterns. Start here to understand the basics of BQL.
 *   **[HybridBQL.md](HybridBQL.md)**: Documentation on Hybrid BQL, which likely combines different querying approaches or extends standard BQL capabilities.
 *   **[APIs.md](APIs.md)**: Information about the Browserless APIs, including endpoints and authentication.
+*   **[REST-API-Example.md](REST-API-Example.md)**: Examples of using the REST API for common tasks like screenshots.
+*   **[BaaS-Example.md](BaaS-Example.md)**: Examples of using Browsers as a Service (BaaS) with Puppeteer/Playwright.
+*   **[Example-Booking.md](Example-Booking.md)**: A placeholder or example file for Booking.com automation (currently empty).
 *   **[Advanced.md](Advanced.md)**: Advanced topics and configurations for power users.
 *   **[UseCases.md](UseCases.md)**: Examples and common use cases for Browserless automation.
 *   **[References.md](References.md)**: General references and external links.
